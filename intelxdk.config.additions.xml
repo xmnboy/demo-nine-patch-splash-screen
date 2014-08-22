@@ -1,1 +1,3 @@
 <preference name="debuggable" value="true" />
+<preference name="SplashScreen" value="splash" />
+<splash platform="android" src="pkg/apk/nine-patch-test-320x426.9.png" density="ldpi" />

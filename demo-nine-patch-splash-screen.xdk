@@ -5,7 +5,7 @@
       "type": "Import",
       "src": "",
       "projectGuid": "142cf96f-ba32-415b-93dc-bec10e6d3679",
-      "lastModifiedDate": 1408658021605,
+      "lastModifiedDate": 1408672001500,
       "creationDate": 1394489018036
     },
     "sourceDirectory": "www",
@@ -33,14 +33,14 @@
     "cordovaPlugins": [
       {
         "id": "org.apache.cordova.device",
-        "version": "0.2.10",
+        "version": "0.2.5",
         "selectedState": "Included",
         "data": {},
         "paramvals": {}
       },
       {
         "id": "org.apache.cordova.splashscreen",
-        "version": "0.2.5",
+        "version": "",
         "selectedState": "Included",
         "data": {},
         "paramvals": {}

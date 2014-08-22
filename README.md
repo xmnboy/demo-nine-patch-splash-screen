@@ -2,6 +2,8 @@
 
 See [LICENSE][] for license terms and conditions.
 
+> *This project is under construction! You have been warned!!*
+
 This application is very simple. It includes some sample nine-patch
 splash screen images to show you how a nine-patch image can be used to
 create a splash screen that will not distort on different Android
